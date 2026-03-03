@@ -78,6 +78,8 @@
 
 Статья про длинный и короткий контент: https://ishadeed.com/article/css-short-long-content/. 
 
+Пример, который собирали на мастер-классе: https://github.com/kantegory/mentoring/tree/master/32_bootstrap_notes_app_example  
+
 ### Язык программирования JS: основы языка, основы работы с DOM, обработка пользовательских событий, DOM-хранилища
 
 Презентация: https://disk.yandex.ru/i/WTMTdaVOx0EQvw
